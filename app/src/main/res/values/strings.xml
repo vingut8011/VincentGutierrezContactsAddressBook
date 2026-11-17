@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Vincent Gutierrez - Contacts Address Book</string>
+
+    <string name="alice_picture_description">Alice Anderson contact picture</string>
+    <string name="alice_name">Alice Anderson</string>
+    <string name="alice_address">123 Maple Street, San Antonio, TX 78201</string>
+    <string name="alice_phone">(210) 555-0101</string>
+    <string name="alice_email">alice@example.com</string>
+
+
+    <string name="andrew_name">Andrew Adams</string>
+    <string name="andrew_picture_description">Andrew Adams contact picture</string>
+    <string name="andrew_address">456 Oak Avenue, San Antonio, TX 78205</string>
+    <string name="andrew_phone">(210) 555-0102</string>
+    <string name="andrew_email">andrew@example.com</string>
+
+    <string name="contacts_title">Contacts Address Book</string>
+    <string name="category_a">A</string>
+    <string name="alice_contact">Alice Anderson</string>
+    <string name="andrew_contact">Andrew Adams</string>
+    <string name="view_details">View Details</string>
+    <string name="alice_button_description">View details for Alice Anderson</string>
+    <string name="view_alice_details">View Alice Details</string>
+    <string name="view_andrew_details">View Andrew Details</string>
+
+</resources>
